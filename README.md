@@ -1,4 +1,10 @@
-varkOS
+metalBerry
 ======
 
-VarkOS - A bare metal implementation of a custom OS kernel, targeted at the RaspberryPi board. This project serves a test bed for experimentation with the ARM architecture, in order to be come acquainted with the low level operation of the processor.
+metalBerry - A bare metal OS for RaspberryPi board.
+This project is based on varkOS.
+
+for more information, please see the varkOS project.
+https://github.com/Bosvark/varkOS
+
+
